@@ -1,3 +1,10 @@
+/.redo
+/.do_built
+/.do_built.dir
+/minimal/.do_built
+/minimal/.do_built.dir
+/minimal/y
 *~
-*.pyc
 *.tmp
+*.did
+/docs.out
